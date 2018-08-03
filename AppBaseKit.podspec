@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   AppBaseKit use project init, help dev quickly starting code.
                        DESC
 
-  s.homepage         = 'https://gitee.com/jessexu/AppBaseKit'
+  s.homepage         = 'https://github.com/jessecoding/AppBaseKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Jesse Xu' => 'jessexu.mail@qq.com' }
-  s.source           = { :git => 'https://gitee.com/jessexu/AppBaseKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jessecoding/AppBaseKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

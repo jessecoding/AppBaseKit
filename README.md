@@ -1,5 +1,6 @@
 # AppBaseKit
 
+[![Build Status](https://travis-ci.org/jessecoding/AppBaseKit.svg?branch=master)](https://travis-ci.org/jessecoding/AppBaseKit)
 [![Version](https://img.shields.io/cocoapods/v/AppBaseKit.svg?style=flat)](https://cocoapods.org/pods/AppBaseKit)
 [![License](https://img.shields.io/cocoapods/l/AppBaseKit.svg?style=flat)](https://cocoapods.org/pods/AppBaseKit)
 [![Platform](https://img.shields.io/cocoapods/p/AppBaseKit.svg?style=flat)](https://cocoapods.org/pods/AppBaseKit)
