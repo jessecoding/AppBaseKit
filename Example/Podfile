@@ -1,11 +1,9 @@
+source "https://github.com/CocoaPods/Specs.git"
+
+platform :ios, '9.0'
 use_frameworks!
 
 target 'AppBaseKit_Example' do
   pod 'AppBaseKit', :path => '../'
 
-  target 'AppBaseKit_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

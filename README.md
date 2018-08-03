@@ -1,6 +1,5 @@
 # AppBaseKit
 
-[![CI Status](https://img.shields.io/travis/Jesse Xu/AppBaseKit.svg?style=flat)](https://travis-ci.org/Jesse Xu/AppBaseKit)
 [![Version](https://img.shields.io/cocoapods/v/AppBaseKit.svg?style=flat)](https://cocoapods.org/pods/AppBaseKit)
 [![License](https://img.shields.io/cocoapods/l/AppBaseKit.svg?style=flat)](https://cocoapods.org/pods/AppBaseKit)
 [![Platform](https://img.shields.io/cocoapods/p/AppBaseKit.svg?style=flat)](https://cocoapods.org/pods/AppBaseKit)
@@ -22,7 +21,7 @@ pod 'AppBaseKit'
 
 ## Author
 
-Jesse Xu, jessexu@augmentum.com.cn
+Jesse Xu,jessexu.mail@qq.com
 
 ## License
 

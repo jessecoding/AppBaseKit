@@ -1,16 +1,23 @@
 PODS:
-  - AppBaseKit (0.1.0)
+  - Alamofire (4.7.3)
+  - AppBaseKit (0.1.0):
+    - Alamofire (~> 4.7)
 
 DEPENDENCIES:
   - AppBaseKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
 
 EXTERNAL SOURCES:
   AppBaseKit:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AppBaseKit: fff4e083ba5acf89d147fc326c872e10e0b8db50
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AppBaseKit: aaed759b4b4b7d8894ec02445340ec232e244bbc
 
-PODFILE CHECKSUM: 2a83357147041de47a0ca39bfaddcfa7a454da81
+PODFILE CHECKSUM: 60c44184b8ec6046e0c010e44a7d51298beaa90e
 
 COCOAPODS: 1.5.3
